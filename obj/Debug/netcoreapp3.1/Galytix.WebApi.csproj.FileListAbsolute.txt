@@ -1,0 +1,5 @@
+C:\Users\jangi\Desktop\galytix-assignment\obj\Debug\netcoreapp3.1\Galytix.WebApi.csproj.AssemblyReference.cache
+C:\Users\jangi\Desktop\galytix-assignment\obj\Debug\netcoreapp3.1\Galytix.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jangi\Desktop\galytix-assignment\obj\Debug\netcoreapp3.1\Galytix.WebApi.AssemblyInfoInputs.cache
+C:\Users\jangi\Desktop\galytix-assignment\obj\Debug\netcoreapp3.1\Galytix.WebApi.AssemblyInfo.cs
+C:\Users\jangi\Desktop\galytix-assignment\obj\Debug\netcoreapp3.1\Galytix.WebApi.csproj.CoreCompileInputs.cache
